@@ -5,7 +5,6 @@ public class Database {
 
     private Database() {
     }
-
     public static Database getInstance() {
 
         // create object if it's not already created
